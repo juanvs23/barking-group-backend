@@ -12,6 +12,7 @@ const listController = (request, response) => {
       price,
       specs,
       photos: photoList,
+      category,
       description,
     };
   });
