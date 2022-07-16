@@ -4,7 +4,7 @@ const listController = (request, response) => {
   const dbData = db.map((data) => {
     const { id, name, price, photos, description, specs } = data;
     const photoList = photos.map(
-      (photo) => `${request.protocol}://${request.get("host")}/static/${photo}`
+      (photo) => `https://${request.get("host")}/static/${photo}`
     );
     return {
       id,
