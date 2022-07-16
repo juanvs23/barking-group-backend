@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "A pretty house in the lake",
+    "price": 40000,
+    "photos": ["casa-nro-1.jpg"],
+    "description": "Casablanca is a criminal girl with an excellent drama of plastic and sweet fruit.",
+    "category": "house",
+    "specs": [
+      {
+        "bed": 6,
+        "bath": 3,
+        "square": 9000
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "A best house and great selection",
+    "price": 22000,
+    "photos": ["casa-nro-2.jpg"],
+    "description": "Casablanca is a criminal girl with an excellent drama of plastic and sweet fruit.",
+    "category": "house",
+    "specs": [
+      {
+        "bed": 3,
+        "bath": 2,
+        "square": 6000
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Modern apartament and nice square ",
+    "price": 30000,
+    "photos": ["casa-nro-3.jpg"],
+    "description": "Casablanca is a criminal girl with an excellent drama of plastic and sweet fruit.",
+    "category": "apartament",
+    "specs": [
+      {
+        "bed": 3,
+        "bath": 1,
+        "square": 4000
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "A nice apartament in New York",
+    "price": 70000,
+    "photos": ["casa-nro-4.jpg"],
+    "description": "Casablanca is a criminal girl with an excellent drama of plastic and sweet fruit.",
+    "category": "apartament",
+    "specs": [
+      {
+        "bed": 2,
+        "bath": 1,
+        "square": 3000
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "House with two floors",
+    "price": 50000,
+    "photos": ["casa-nro-5.jpg"],
+    "description": "Casablanca is a criminal girl with an excellent drama of plastic and sweet fruit.",
+    "category": "house",
+    "specs": [
+      {
+        "bed": 5,
+        "bath": 2,
+        "square": 7000
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "A litte townhouse",
+    "price": 16000,
+    "photos": ["casa-nro-6.jpg"],
+    "description": "Casablanca is a criminal girl with an excellent drama of plastic and sweet fruit.",
+    "category": "apartament",
+    "specs": [
+      {
+        "bed": 2,
+        "bath": 1,
+        "square": 2000
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Great house in best place",
+    "price": 40000,
+    "photos": ["casa-nro-7.jpg"],
+    "description": "Casablanca is a criminal girl with an excellent drama of plastic and sweet fruit.",
+    "category": "house",
+    "specs": [
+      {
+        "bed": 6,
+        "bath": 3,
+        "square": 9000
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "new apartament en Times Square",
+    "price": 60000,
+    "photos": ["casa-nro-8.jpg"],
+    "description": "Casablanca is a criminal girl with an excellent drama of plastic and sweet fruit.",
+    "category": "apartament",
+    "specs": [
+      {
+        "bed": 6,
+        "bath": 3,
+        "square": 9000
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Excelent apartament, excelent choise",
+    "price": 40000,
+    "photos": ["casa-nro-9.jpg"],
+    "description": "Casablanca is a criminal girl with an excellent drama of plastic and sweet fruit.",
+    "category": "apartament",
+    "specs": [
+      {
+        "bed": 4,
+        "bath": 3,
+        "square": 6000
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "A pretty condomine",
+    "price": 40000,
+    "photos": ["casa-nro-10.jpg"],
+    "description": "Casablanca is a criminal girl with an excellent drama of plastic and sweet fruit.",
+    "category": "house",
+    "specs": [
+      {
+        "bed": 6,
+        "bath": 3,
+        "square": 9000
+      }
+    ]
+  }
+]
