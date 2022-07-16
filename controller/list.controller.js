@@ -2,7 +2,7 @@ const db = require("../db/luxurys.json");
 
 const listController = (request, response) => {
   const dbData = db.map((data) => {
-    const { id, name, price, photos, description, specs } = data;
+    const { id, name, price, photos, category, description, specs } = data;
     const photoList = photos.map(
       (photo) => `https://${request.get("host")}/static/${photo}`
     );
