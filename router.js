@@ -8,6 +8,7 @@ const routes = () => {
   router.get("/luxurys", listController.luxuryList);
   router.get("/students", listController.studentList);
   router.get("/testimonials", listController.studentList);
+  router.get("/neighborhood", listController.neighborhoodList);
   router.get("/student/:id", studentDetail);
   router.get("*", (request, response) => {
     response.json({

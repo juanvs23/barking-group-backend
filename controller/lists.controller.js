@@ -1,6 +1,7 @@
 const luxurys = require("../db/luxurys.json");
 const students = require("../db/students.json");
 const testimonial = require("../db/testimonial.json");
+const neighborhood = require("../db/neighborhood.json");
 const photosUrls = require("../utils/photoUrls");
 class ListController {
   router;
@@ -60,6 +61,21 @@ class ListController {
         review,
         photos: photosUrls(request, photos),
         text,
+      };
+    });
+
+    return response.json({ status: 200, data: dbData });
+  }
+  neighborhoodList(request, response) {
+    const dbData = neighborhood.map((data) => {
+      const { id, name, location, country, photos, description } = data;
+      return {
+        id,
+        name,
+        location,
+        country,
+        photos: photosUrls(request, photos),
+        description,
       };
     });
 
