@@ -5,7 +5,7 @@ function photosUrls(request, photos = []) {
   if (photos.length <= 0) return;
   const http = request.protocol == "http" ? "http" : "https";
   return photoList.map(
-    (photo) => `${http}://${request.get("host")}/static/${photo}`
+    (photo) => `https://${request.get("host")}/static/${photo}`
   );
 }
 module.exports = photosUrls;
