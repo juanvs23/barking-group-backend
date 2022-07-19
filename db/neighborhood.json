@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Alberta",
+    "location": "alberta",
+    "country": "Canada",
+    "photos": ["/neighborhood/alberta-canada.jpg"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae odio ut augue maximus tincidunt. Nam nec efficitur dui. Sed posuere efficitur hendrerit. Proin luctus mauris eu dui finibus, nec faucibus tellus scelerisque. Duis vel venenatis quam, dictum iaculis lectus. Nullam eleifend libero nec ipsum pellentesque dictum. Pellentesque vitae suscipit odio. Curabitur a nulla eget lorem posuere vestibulum vitae id magna."
+  },
+  {
+    "id": 2,
+    "name": "Fort Lauderdale",
+    "location": "fort-lauderdale",
+    "country": "Canada",
+    "photos": ["neighborhood/for-lauderlade.jpg"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae odio ut augue maximus tincidunt. Nam nec efficitur dui. Sed posuere efficitur hendrerit. Proin luctus mauris eu dui finibus, nec faucibus tellus scelerisque. Duis vel venenatis quam, dictum iaculis lectus. Nullam eleifend libero nec ipsum pellentesque dictum. Pellentesque vitae suscipit odio. Curabitur a nulla eget lorem posuere vestibulum vitae id magna."
+  },
+  {
+    "id": 3,
+    "name": "Key West",
+    "location": "key-west",
+    "country": "uuee",
+    "photos": ["neighborhood/key-west.jpg"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae odio ut augue maximus tincidunt. Nam nec efficitur dui. Sed posuere efficitur hendrerit. Proin luctus mauris eu dui finibus, nec faucibus tellus scelerisque. Duis vel venenatis quam, dictum iaculis lectus. Nullam eleifend libero nec ipsum pellentesque dictum. Pellentesque vitae suscipit odio. Curabitur a nulla eget lorem posuere vestibulum vitae id magna."
+  },
+  {
+    "id": 4,
+    "name": "Los Angeles",
+    "location": "los-angeles",
+    "country": "uuee",
+    "photos": ["neighborhood/los-angeles.jpg"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae odio ut augue maximus tincidunt. Nam nec efficitur dui. Sed posuere efficitur hendrerit. Proin luctus mauris eu dui finibus, nec faucibus tellus scelerisque. Duis vel venenatis quam, dictum iaculis lectus. Nullam eleifend libero nec ipsum pellentesque dictum. Pellentesque vitae suscipit odio. Curabitur a nulla eget lorem posuere vestibulum vitae id magna."
+  },
+  {
+    "id": 5,
+    "name": "Menphis",
+    "location": "menphis",
+    "country": "uuee",
+    "photos": ["menphis-tenesee.jpg"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae odio ut augue maximus tincidunt. Nam nec efficitur dui. Sed posuere efficitur hendrerit. Proin luctus mauris eu dui finibus, nec faucibus tellus scelerisque. Duis vel venenatis quam, dictum iaculis lectus. Nullam eleifend libero nec ipsum pellentesque dictum. Pellentesque vitae suscipit odio. Curabitur a nulla eget lorem posuere vestibulum vitae id magna."
+  },
+  {
+    "id": 6,
+    "name": "New York",
+    "location": "new-york",
+    "country": "uuee",
+    "photos": ["neighborhood/new-york.jpgg"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae odio ut augue maximus tincidunt. Nam nec efficitur dui. Sed posuere efficitur hendrerit. Proin luctus mauris eu dui finibus, nec faucibus tellus scelerisque. Duis vel venenatis quam, dictum iaculis lectus. Nullam eleifend libero nec ipsum pellentesque dictum. Pellentesque vitae suscipit odio. Curabitur a nulla eget lorem posuere vestibulum vitae id magna."
+  },
+  {
+    "id": 7,
+    "name": "Washington",
+    "location": "washington",
+    "country": "uuee",
+    "photos": ["../public/photos/neighborhood/washigthon.jpg"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae odio ut augue maximus tincidunt. Nam nec efficitur dui. Sed posuere efficitur hendrerit. Proin luctus mauris eu dui finibus, nec faucibus tellus scelerisque. Duis vel venenatis quam, dictum iaculis lectus. Nullam eleifend libero nec ipsum pellentesque dictum. Pellentesque vitae suscipit odio. Curabitur a nulla eget lorem posuere vestibulum vitae id magna."
+  }
+]

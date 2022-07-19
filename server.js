@@ -1,3 +1,4 @@
+require("dotenv").config();
 const express = require("express");
 const path = require("path");
 const routes = require("./router");
@@ -10,9 +11,12 @@ server.use(cors());
 server.use(express.json());
 server.use("/static", express.static("public"));
 
-server.get("/static/:files", (request, response, next) => {
-  const { files } = request.params;
-  return response.sendFile(`public/photos/${files}`, { root: __dirname });
+server.get("/static/:path/:files", (request, response) => {
+  const { path, files } = request.params;
+
+  return response.sendFile(`public/photos/${path}/${files}`, {
+    root: __dirname,
+  });
 });
 server.use("/", routes());
 
