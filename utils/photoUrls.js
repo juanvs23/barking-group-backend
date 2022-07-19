@@ -1,9 +1,9 @@
 require("dotenv").config();
 function photosUrls(request, photos = []) {
   const photoList = photos;
+  console.log(process.env.NODE_ENV);
   if (photos.length <= 0) return;
-  const http =
-    process.env.NODE_ENV === "development" ? request.protocol : "https";
+  const http = request.protocol == "http" ? "http" : "https";
   return photoList.map(
     (photo) => `${http}://${request.get("host")}/static/${photo}`
   );
